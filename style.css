@@ -1,0 +1,18 @@
+.recomanaciones{
+    margin-top: 10px;
+}
+.img-thumbnail{
+    width: 200px;
+}
+
+.img-thumbnail:hover{
+    cursor: pointer;
+    zoom: 200%;
+}
+
+.estanteria{
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
